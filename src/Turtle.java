@@ -8,7 +8,7 @@ public class Turtle {
 
     public static void main(String[] args) {
         Turtle turtle = new Turtle();
-        turtle.setName("Arkadiy Ivanovich");
+        turtle.setName("Ivan Arkadievich");
         System.out.println(turtle.name);
     }
 }
