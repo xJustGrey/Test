@@ -9,7 +9,7 @@ public class Pirsing {
         if (a < 14) {
             System.out.println("Прокол ушей в присутствии родителей");
         } else if (a >= 14 && a < 18) {
-            System.out.println("прокол ушей, пупка, языка, носа в присутствии родителей;");
+            System.out.println("прокпол ушей, пупка, языка, носа в присутствии родителей;");
         } else {
             System.out.println("без ограничений");
         }
